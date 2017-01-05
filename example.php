@@ -24,7 +24,7 @@ $dataEncryptionResponseKey = DerivedKey::calculateDataEncryptionResponseKey($key
 
 // print the keys to console
 
-print "pinEncryptionRequestKey:" . $pinEncryptionRequestKey; // blank
+print "pinEncryptionKey:" . $pinEncryptionKey; // 1A322DEF09531168471566C645841CA5
 print "\n";
 print "macRequestKey:" . $macRequestKey; // 1A322DEF0953EE97471566C64584E35A
 print "\n";
