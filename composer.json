@@ -1,0 +1,8 @@
+{
+	"name": "jamiesoncj/dukpt-php-test",
+	"description": "Simple DUKPT PHP test project",
+	"authors": [],
+	"require": {
+		"camcima/dukpt-php": "dev-master"
+	}
+}
